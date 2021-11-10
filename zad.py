@@ -125,4 +125,4 @@ def choose_function(arg):
         '5': remaining_units,
     }[arg]()
 
-print(choose_function(input("1.Exercise 01.03\n2.Exercise 01.04\n3.Exercise 01.05\n4.Exercise 01.06\n5.Exercise 03.05\nChoose function: ")))
+print(choose_function(input("1.Calculating the reliability with the given failure rate and operational time\n\n2.Calculating the highest failure rate for a product, when given the reliability and time\n\n3.Achieves the correct mathematical formula for a reliability function when only MTBF is  given. Then, in the second step, by giving time (t), we are able to calculate the reliability of a given item\n\n4.Calculating the probability of an item operating after given time by percentage\n\n5.Calculating number of units that failed during chosen year and amount of remaining units after a given period of time\n\nChoose function: ")))
