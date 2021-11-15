@@ -1,3 +1,8 @@
+"""
+Program was created by Jakub Kwidziński and Jeremi Rycharski.
+All rights reserved.
+"""
+
 import math
 import numpy as np
 def reliability_const_fail():
